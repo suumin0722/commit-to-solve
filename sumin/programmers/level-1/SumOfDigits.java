@@ -32,7 +32,7 @@ class Solution {
 
 🔁복습 포인트
  - parseInt 없이 구현해보기
-	/*
+	
 	class Solution {
 		public int solution(String s) {
 			//+: true, -:false
@@ -50,8 +50,8 @@ class Solution {
 			return (sign ? 1 : -1) * answer;
 		}
 	}
-	*/	
-*/
+*/	
+
 
 
 
