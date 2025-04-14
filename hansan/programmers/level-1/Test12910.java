@@ -24,7 +24,7 @@ arr의 모든 원소는 1으로 나누어 떨어집니다. 원소를 오름차�
 
 import java.util.*;
 
-class Solution {
+class Test12910 {
     public int[] solution(int[] arr, int divisor) {
         
         List<Integer> list = new ArrayList<>();
