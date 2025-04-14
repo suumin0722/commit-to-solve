@@ -15,7 +15,8 @@
 //입출력 예 #2
 //
 //1, 2, 3이 numbers에 없으므로, 1 + 2 + 3 = 6을 return 해야 합니다.
-class Solution {
+
+class Test86051 {
     public int solution(int[] numbers) {
     
         boolean[] removes = new boolean[10]; 
